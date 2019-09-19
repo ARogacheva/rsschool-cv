@@ -8,6 +8,16 @@
 * +375298869423  
 
 ***
+# **Alexandra Rogacheva**  
+
+
+## Contacts  
+
+* rogacheva_alexandra@mail.ru  
+
+* +375298869423  
+
+***
 
 ## Summary
 
@@ -23,7 +33,8 @@ Basic knowledge of the:
 
 * HTML;
 * CSS;
-* SQL.
+* SQL;
+* JavaScript.
 
 ***
 
