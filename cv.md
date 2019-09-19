@@ -38,6 +38,19 @@ Basic knowledge of the:
 
 ***
 
+## Code example
+
+```javascript
+function seatsInTheater(nCols, nRows, col, row) {
+  const rowsBehind = nRows - row;
+  const columnsBehind = nCols - (col - 1);
+
+  return rowsBehind * columnsBehind;
+}
+```
+
+***
+
 ## Education
 
 **Belarusian State Technological
