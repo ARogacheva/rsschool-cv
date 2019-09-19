@@ -7,15 +7,6 @@
 
 * +375298869423  
 
-***
-# **Alexandra Rogacheva**  
-
-
-## Contacts  
-
-* rogacheva_alexandra@mail.ru  
-
-* +375298869423  
 
 ***
 
