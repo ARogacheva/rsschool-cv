@@ -1,12 +1,10 @@
 # **Alexandra Rogacheva**  
 
-
 ## Contacts  
 
 * rogacheva_alexandra@mail.ru  
 
 * +375298869423  
-
 
 ***
 
@@ -54,10 +52,16 @@ Specialization: Technology of Medicinal Drugs
 
 ## Work experience
 
-
 | Period      | Company| Position |
 | ------------- |:-------------:| -----:|
 | 06/2018 - 07/2019       | LLC "NPK Biotest"| Acting Head of quality control department  |
 | 07/2017 - 06/2018      |LLC "NPK Biotest"| Quality engineer |
 |04/2017 - 07/2017|LLC "NPK Biotest"| Quality controller |
 
+***
+
+## English
+
+Estimated english level: B1
+
+Studied at school, university and at the "Mr. English" courses.  
