@@ -1,0 +1,108 @@
+@font-face {
+    font-family: raleway;
+    src: url(assets/fonts/raleway/Raleway-Regular.ttf);
+  }
+
+@font-face {
+    font-family: font-awesome;
+    src: url(assets/fonts/font-awesome/webfonts/fa-solid-900.ttf)
+}
+
+* {
+    font-family: 'raleway', "Arial", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+img {
+    width: auto;
+    height: 210px;
+}
+
+.wrapper {
+    max-width: 1024px;
+}
+
+header ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header ul li:first-child {
+    margin: 0 100px 0 150px;
+}
+
+header ul li:first-child::before {
+    font-family: 'font-awesome';
+    content: '\f0e0';
+    margin-right: 5px;
+}
+
+header ul li:last-child::before {
+    font-family: 'font-awesome';
+    content: '\f879';
+    margin-right: 5px;
+}
+
+header div {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid rgb(12, 161, 161);
+}
+
+h2 {
+    text-align: center;
+}
+
+h2.background-line {
+    position: relative;
+}
+
+h2::before {
+    border-top: 2px solid #dfdfdf;
+    content:"";
+    margin: 0 auto;
+    position: absolute;
+    top: 50%; left: 0; right: 0; bottom: 0;
+    width: 95%;
+    z-index: -1;
+}
+
+span {
+    background: #fff;
+    padding: 0 15px;
+}
+
+code {
+    display: block;
+    padding: 15px;
+    font-family: monospace;
+    font-size: 16px;
+    width: 50%;
+    background-color: rgb(40, 41, 40);
+    color: rgb(0, 199, 218);
+    border-radius: 10px;
+}
