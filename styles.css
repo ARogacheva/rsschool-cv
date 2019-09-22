@@ -34,10 +34,10 @@ img {
 
 header ul {
     display: flex;
-    list-style-type: none;
     margin: 0;
     padding: 0;
     width: 100%;
+    list-style-type: none;
 }
 
 header ul li:first-child {
@@ -58,10 +58,10 @@ header ul li:last-child::before {
 
 header div {
     display: flex;
-    width: 100%;
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
+    width: 100%;
 }
 
 table {
@@ -82,27 +82,32 @@ h2.background-line {
 }
 
 h2::before {
-    border-top: 2px solid #dfdfdf;
-    content:"";
-    margin: 0 auto;
     position: absolute;
     top: 50%; left: 0; right: 0; bottom: 0;
-    width: 95%;
     z-index: -1;
+    margin: 0 auto;
+    width: 95%;
+    border-top: 2px solid #dfdfdf;
+    content:"";
 }
 
-span {
-    background: #fff;
+h2 span {
     padding: 0 15px;
+    background: #fff;
 }
 
 code {
     display: block;
     padding: 15px;
+    width: 50%;
     font-family: monospace;
     font-size: 16px;
-    width: 50%;
     background-color: rgb(40, 41, 40);
     color: rgb(0, 199, 218);
     border-radius: 10px;
+}
+
+.education span,
+.education p:first-of-type {
+    font-weight: bold;
 }
